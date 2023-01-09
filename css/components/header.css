@@ -1,7 +1,8 @@
 #header {
     width: 100%;
     height: 600px;
-    background: url(../../assets/portugal1.jpg) no-repeat;
+    background-image: url(../../assets/portugal1.jpg);
+    background-repeat: no-repeat;
     position: absolute;
 }
 

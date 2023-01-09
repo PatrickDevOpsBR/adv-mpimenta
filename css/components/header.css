@@ -4,6 +4,7 @@
     background-image: url(../../assets/portugal1.jpg);
     background-repeat: no-repeat;
     position: absolute;
+    border-bottom: solid 2px var( --dark);
 }
 
 .container-header {
